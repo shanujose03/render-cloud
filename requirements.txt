@@ -1,6 +1,7 @@
-Flask
-matplotlib
-pandas
-seaborn
-scikit-learn
-numpy
+Flask==2.3.3
+gunicorn==21.2.0
+matplotlib==3.7.2
+pandas==2.1.0
+seaborn==0.12.2
+scikit-learn==1.3.0
+numpy==1.25.2
